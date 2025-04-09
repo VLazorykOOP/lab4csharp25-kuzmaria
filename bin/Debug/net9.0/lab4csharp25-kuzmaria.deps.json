@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "lab4csharp25-kuzmaria/1.0.0": {
+        "runtime": {
+          "lab4csharp25-kuzmaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab4csharp25-kuzmaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
