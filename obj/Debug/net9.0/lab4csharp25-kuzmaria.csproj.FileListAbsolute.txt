@@ -12,3 +12,4 @@ C:\Users\kuzds\github-classroom\VLazorykOOP\lab4csharp25-kuzmaria\obj\Debug\net9
 C:\Users\kuzds\github-classroom\VLazorykOOP\lab4csharp25-kuzmaria\obj\Debug\net9.0\lab4csharp25-kuzmaria.pdb
 C:\Users\kuzds\github-classroom\VLazorykOOP\lab4csharp25-kuzmaria\obj\Debug\net9.0\lab4csharp25-kuzmaria.genruntimeconfig.cache
 C:\Users\kuzds\github-classroom\VLazorykOOP\lab4csharp25-kuzmaria\obj\Debug\net9.0\ref\lab4csharp25-kuzmaria.dll
+C:\Users\kuzds\github-classroom\VLazorykOOP\lab4csharp25-kuzmaria\obj\Debug\net9.0\lab4csharp25-kuzmaria.sourcelink.json
